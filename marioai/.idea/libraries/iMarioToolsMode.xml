@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iMarioToolsMode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iMarioToolsMode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
